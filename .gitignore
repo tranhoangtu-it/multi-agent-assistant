@@ -25,3 +25,6 @@ htmlcov/
 
 # Streamlit
 .streamlit/
+
+# Plans (local dev artifacts)
+plans/
